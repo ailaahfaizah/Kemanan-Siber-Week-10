@@ -7,11 +7,11 @@
     "id": 0
   },
   "detail": {
-    "contributors": [
-      {
-        "name": "1. A'ilah Nailul Fa'izah (103072400042), 2. Rui Juniarta (103072400090) 3. Muhammad Aubert Fawwaz Prayitno (103072400169)"
-      }
-    ],
+      "contributors": [
+        { "name": "A'ilah Nailul Fa'izah (103072400042)" },
+        { "name": "Rui Juniarta (103072400090)" },
+        { "name": "Muhammad Aubert Fawwaz Prayitno (103072400169)" }
+      ],
     "diagrams": [
       {
         "id": 0,
@@ -1248,7 +1248,7 @@
       }
     ],
     "diagramTop": 1,
-    "reviewer": "",
+    "reviewer": "Kharisma Monika Dian Pertiwi, S.Kom., M.Kom.",
     "threatTop": 18
   }
 }
